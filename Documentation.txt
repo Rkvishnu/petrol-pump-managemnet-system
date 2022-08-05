@@ -1,0 +1,17 @@
+   Welcome to the Oil Management System!
+This program is designed to help you maintain, control and monitor the sales details, employee and 
+customer details, profit/loss earned by your company. This system contains various features that are
+mostly required to manage your Company.
+
+The system provides various features which are listed as:
+    1. Customer Management
+    2. Employee Management
+    3. Fuel Production Management
+    4. Fuel Demand Management
+    5. Profit/Loss Data along with graphs
+
+You can also export the data you want into an External Excel Sheet for your mainpulation. The data can
+be vey well added or deleted as per the user's demand. 
+
+Please follow the further on-screen instructions and give input as per the prescibed format.
+
